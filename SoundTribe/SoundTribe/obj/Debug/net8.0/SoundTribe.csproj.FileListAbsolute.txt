@@ -1,0 +1,14 @@
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\bin\Debug\net8.0\SoundTribe.exe
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\bin\Debug\net8.0\SoundTribe.deps.json
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\bin\Debug\net8.0\SoundTribe.runtimeconfig.json
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\bin\Debug\net8.0\SoundTribe.dll
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\bin\Debug\net8.0\SoundTribe.pdb
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.AssemblyInfoInputs.cache
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.AssemblyInfo.cs
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.csproj.CoreCompileInputs.cache
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.dll
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\refint\SoundTribe.dll
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.pdb
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\SoundTribe.genruntimeconfig.cache
+C:\Users\henle\OneDrive\Documentos\C#\SoundTribe\SoundTribe\obj\Debug\net8.0\ref\SoundTribe.dll
