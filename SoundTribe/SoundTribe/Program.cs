@@ -1,4 +1,4 @@
-﻿string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
+﻿string mensagemDeBoasVindas = "Boas vindas ao Sound Tribe";
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
 bandasRegistradas.Add("Linkin Park", new List<int> { 10, 8, 6 });
 bandasRegistradas.Add("Angra", new List<int> { 10, 9, 5 });
